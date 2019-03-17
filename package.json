@@ -1,0 +1,23 @@
+{
+  "name": "css-snippet",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files \"./**/*.css,./**/*.html,./**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everbrez/css-snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everbrez/css-snippets/issues"
+  },
+  "homepage": "https://github.com/everbrez/css-snippets#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
